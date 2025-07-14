@@ -23,6 +23,9 @@
     <!-- Vendor - Common -->
     <project path="vendor/xiaomi/mt6768-common" name="proprietary_vendor_xiaomi_mt6768-common" remote="crdroidandroid" revision="14.0" />
 
-</manifest>
+    <!-- Hardware -->
+    <project path="hardware/xiaomi" name="android_hardware_xiaomi" remote="crdroidandroid" revision="15.0" />
+    <project path="hardware/mediatek" name="android_hardware_mediatek" remote="crdroidandroid" revision="15.0" />
 
+</manifest>
 
